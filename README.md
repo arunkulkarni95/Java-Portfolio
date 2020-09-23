@@ -1,2 +1,2 @@
 # Portfolio
- A portfolio of significant Computer Science projects
+ A portfolio of significant Computer Science projects.
