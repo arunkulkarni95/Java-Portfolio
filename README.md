@@ -1,2 +1,2 @@
 # Portfolio
- A portfolio of work done with Java
+ A portfolio of work done with Java.
