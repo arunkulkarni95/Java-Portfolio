@@ -229,10 +229,3 @@ public class P4GUI extends JFrame{
         processBtn.addActionListener(new OptionHandler());
         addWindowListener(new ExitListener());       
     }
-    
-    //begin main method
-    public static void main(String[] args) {
-        //new instance of P4GUI
-        new P4GUI();
-    }//end main method    
-}//end class P4GUI
